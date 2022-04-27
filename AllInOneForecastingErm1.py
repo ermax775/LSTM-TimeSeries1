@@ -64,7 +64,7 @@ warnings.filterwarnings('ignore')
 # In[4]:
 
 
-raw_data = pd.read_csv('C:/projects/research paper/res1/test9bxSample.csv', encoding='latin-1')
+raw_data = pd.read_csv('C:/projects/research/res1/test9bxSample.csv', encoding='latin-1')
 
 # print the shape
 print(raw_data.shape)
